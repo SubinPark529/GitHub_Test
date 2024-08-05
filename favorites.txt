@@ -1,4 +1,12 @@
 banana
 apple
 watermelon
+<<<<<<< HEAD
 cheese
+=======
+cheese
+
+hi
+by
+mama
+>>>>>>> foods
